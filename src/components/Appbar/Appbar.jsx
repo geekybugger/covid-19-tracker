@@ -43,7 +43,7 @@ const Appbar = () => {
                 </Menu>
 
                 <Typography variant="h6" className={styles.title}>
-                    News
+                    CoranaVirus Updater
                 </Typography>
                 <Button color="inherit">Login</Button>
                 </Toolbar>
